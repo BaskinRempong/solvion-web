@@ -1,6 +1,9 @@
 # Solvion Website
 
-Landing page untuk Solvion AI.
+Solvion Website
+
+Landing page for Solvion AI built with Next.js and TailwindCSS.
+Docker-ready for deployment.
 
 ## Tech Stack
 
